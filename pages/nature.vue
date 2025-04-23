@@ -30,7 +30,7 @@
             <span class="text-4xl text-black font-bold">AGRICULTURE'S ENHANCEMENT</span>
         </div>
         <div class="flex gap-3 border-box p-5 rounded-lg shadow-lg shadow-cyan-500/50 min-w-sm w-content mr-10 ml-10 text-center max-w-300 bg-slate-400 justify-center">
-            <img class="w-50 h-full rounded-lg" src="../public/img/agri.jpg" />
+            <img class="w-50 h-full rounded-lg" src="../public/img/agri.JPG" />
             <span class="text-md text-black font-bold max-w-100 text-justify text-xl">gricultural technology will advance with the help of AI and various technology to potentially speed up agricultural processes and even conduct precautionary measures to improve health and safety like detecting risks of potential sicknesses for various products! </span>
         </div>
         <div class="flex flex-col gap-3 border-box p-5 rounded-lg shadow-lg shadow-cyan-500/50 min-w-sm w-content mr-10 ml-10 text-center max-w-300 bg-slate-700 justify-start items-center min-h-52">

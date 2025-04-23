@@ -14,7 +14,7 @@
             <span class="text-4xl text-black font-bold">JOURNEY DEEP BELOW</span>
         </div>
         <div class="flex gap-3 border-box p-5 rounded-lg shadow-lg shadow-cyan-500/50 min-w-sm w-content mr-10 ml-10 text-center max-w-300 bg-slate-400 justify-center">
-            <img class="w-70 h-full rounded-lg" src="../public/img/titanic.jpg" />
+            <img class="w-70 h-full rounded-lg" src="../public/img/titanic.JPG" />
             <span class="text-md text-black font-bold max-w-100 text-justify text-2xl">In the future, submersibles and other underwater vehicles will eventually succeed in conquering the depths below the ocean to discover new fishes and treasures beneath the vast waters!</span>
         </div>
         <div class="flex flex-col gap-3 border-box p-5 rounded-lg shadow-lg shadow-cyan-500/50 min-w-sm w-content mr-10 ml-10 text-center max-w-300 bg-slate-700 justify-start items-center min-h-52">
@@ -30,7 +30,7 @@
             <span class="text-4xl text-black font-bold">CORAL REEFS PRESENT!</span>
         </div>
         <div class="flex gap-3 border-box p-5 rounded-lg shadow-lg shadow-cyan-500/50 min-w-sm w-content mr-10 ml-10 text-center max-w-300 bg-slate-400 justify-center">
-            <img class="w-50 h-full rounded-lg" src="../public/img/corals.jpg" />
+            <img class="w-50 h-full rounded-lg" src="../public/img/corals.JPG" />
             <span class="text-md text-black font-bold max-w-100 text-justify text-xl">Coral reefs have a bright future ahead as various technologies have been created to strengthen and improve these coral structures, essentially enhancing the habitat of the marine life</span>
         </div>
         <div class="flex flex-col gap-3 border-box p-5 rounded-lg shadow-lg shadow-cyan-500/50 min-w-sm w-content mr-10 ml-10 text-center max-w-300 bg-slate-700 justify-start items-center min-h-52">
@@ -46,7 +46,7 @@
             <span class="text-4xl text-black font-bold">FULL SHIP UPGRADE</span>
         </div>
         <div class="flex gap-3 border-box p-5 rounded-lg shadow-lg shadow-cyan-500/50 min-w-sm w-content mr-10 ml-10 text-center bg-slate-400 justify-center">
-            <img class="w-100 h-full rounded-lg hidden lg:block" src="../public/img/boat.jpg" />
+            <img class="w-100 h-full rounded-lg hidden lg:block" src="../public/img/boat.JPG" />
             <span class="text-md text-black font-bold max-w-100 text-justify text-3xl">Ships will be upgraded with technology advancements to improve the passenger experience, like decreasing the swaying or keeling from rocky waves, and improving safety measures to avoid accidents and mishaps
             </span>
         </div>

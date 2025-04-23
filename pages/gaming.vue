@@ -14,7 +14,7 @@
             <span class="text-4xl text-black font-bold">VIRTUAL GAMING</span>
         </div>
         <div class="flex gap-3 border-box p-5 rounded-lg shadow-lg shadow-cyan-500/50 min-w-sm w-content mr-10 ml-10 text-center max-w-300 bg-slate-400 justify-center">
-            <img class="w-70 h-full rounded-lg" src="../public/img/vr.jpg" />
+            <img class="w-70 h-full rounded-lg" src="../public/img/vr.JPG" />
             <span class="text-md text-black font-bold max-w-100 text-justify text-2xl">Players will now be able to immerse themselves inside games as virtual reality games take the scene and will enhance the player's experiences by making them feel actual objects from the game and improving the fun in video games!</span>
         </div>
         <div class="flex flex-col gap-3 border-box p-5 rounded-lg shadow-lg shadow-cyan-500/50 min-w-sm w-content mr-10 ml-10 text-center max-w-300 bg-slate-700 justify-start items-center min-h-52">
@@ -30,7 +30,7 @@
             <span class="text-4xl text-black font-bold">360 CINEMAS</span>
         </div>
         <div class="flex gap-3 border-box p-5 rounded-lg shadow-lg shadow-cyan-500/50 min-w-sm w-content mr-10 ml-10 text-center max-w-300 bg-slate-400 justify-center">
-            <img class="w-50 h-full rounded-lg" src="../public/img/360movie.jpg" />
+            <img class="w-50 h-full rounded-lg" src="../public/img/360movie.JPG" />
             <span class="text-md text-black font-bold max-w-100 text-justify text-xl">Movies will make a breakthrough with the birth of 360 movies and 360 theaters, paving the way for a thrilling experience by giving the audience the ability to watch the movie in their surroundings and making an interactive theatrical experience!</span>
         </div>
         <div class="flex flex-col gap-3 border-box p-5 rounded-lg shadow-lg shadow-cyan-500/50 min-w-sm w-content mr-10 ml-10 text-center max-w-300 bg-slate-700 justify-start items-center min-h-52">
@@ -46,7 +46,7 @@
             <span class="text-4xl text-black font-bold">WIFI STRONG MEANS SERVER STRONG</span>
         </div>
         <div class="flex gap-3 border-box p-5 rounded-lg shadow-lg shadow-cyan-500/50 min-w-sm w-content mr-10 ml-10 text-center bg-slate-400 justify-center">
-            <img class="w-100 h-full rounded-lg hidden lg:block" src="../public/img/wifi.jpg" />
+            <img class="w-100 h-full rounded-lg hidden lg:block" src="../public/img/wifi.JPG" />
             <span class="text-md text-black font-bold max-w-100 text-justify text-3xl">Wifi, Internet Services and Servers will be improved to enhance the experience of both games (Especially VR) and films without any breaks, and lags along with lesser disconnections and mishaps that may happen along the way
             </span>
         </div>

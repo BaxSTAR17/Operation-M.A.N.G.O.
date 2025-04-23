@@ -46,7 +46,7 @@
             <span class="text-4xl text-black font-bold">REJUVENATING MUSIC</span>
         </div>
         <div class="flex gap-3 border-box p-5 rounded-lg shadow-lg shadow-cyan-500/50 min-w-sm w-content mr-10 ml-10 text-center bg-slate-400 justify-center">
-            <img class="w-100 h-full rounded-lg hidden lg:block" src="../public/img/medsong.jpg" />
+            <img class="w-100 h-full rounded-lg hidden lg:block" src="../public/img/medsong.JPG" />
             <span class="text-md text-black font-bold max-w-100 text-justify text-xl">An actual recent study and experiment was conducted on dead coral reefs that playing the sounds of healthy coral reefs nearby, would eventually heal the dead reefs. From this, studies can continue until they can discover how to turn MUSIC into a medical tool to heal and lift people's spirits at the same time! It may revolutionize holistic care as a whole.</span>
         </div>
         <div class="flex flex-col gap-3 border-box p-5 rounded-lg shadow-lg shadow-cyan-500/50 min-w-sm w-content mr-10 ml-10 text-center max-w-300 bg-slate-700 justify-start items-center min-h-52">

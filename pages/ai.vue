@@ -30,7 +30,7 @@
             <span class="text-4xl text-black font-bold">SECURITY IMPROVED</span>
         </div>
         <div class="flex gap-3 border-box p-5 rounded-lg shadow-lg shadow-cyan-500/50 min-w-sm w-content mr-10 ml-10 text-center max-w-300 bg-slate-400 justify-center">
-            <img class="w-50 h-full rounded-lg" src="../public/img/aisecurity.jpg" />
+            <img class="w-50 h-full rounded-lg" src="../public/img/aisecurity.JPG" />
             <span class="text-md text-black font-bold max-w-100 text-justify text-xl">Enhanced security measures like security cameras paired with artificial intelligence to spot and signal emergency occurrences could shake up the security scene, and would pave the way for increased safety and emergencies able to be solved immediately! </span>
         </div>
         <div class="flex flex-col gap-3 border-box p-5 rounded-lg shadow-lg shadow-cyan-500/50 min-w-sm w-content mr-10 ml-10 text-center max-w-300 bg-slate-700 justify-start items-center min-h-52">
@@ -46,7 +46,7 @@
             <span class="text-4xl text-black font-bold">AI AND I</span>
         </div>
         <div class="flex gap-3 border-box p-5 rounded-lg shadow-lg shadow-cyan-500/50 min-w-sm w-content mr-10 ml-10 text-center bg-slate-400 justify-center">
-            <img class="w-100 h-full rounded-lg hidden lg:block" src="../public/img/aiteamwork.jpg" />
+            <img class="w-100 h-full rounded-lg hidden lg:block" src="../public/img/aiteamwork.JPG" />
             <span class="text-md text-black font-bold max-w-100 text-justify text-3xl">In a world where we are afraid to embrace AI as it might slowly take over the world. However, there is great potential in the future where we would work together with Artificial Intelligence to make a better world around us and for the benefit of everyone</span>
         </div>
         <div class="flex flex-col gap-3 border-box p-5 rounded-lg shadow-lg shadow-cyan-500/50 min-w-sm w-content mr-10 ml-10 text-center max-w-300 bg-slate-700 justify-start items-center min-h-52">

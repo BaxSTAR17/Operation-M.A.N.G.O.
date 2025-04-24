@@ -7,7 +7,7 @@
     </main>
 </template>
 
-<style>
+<style scoped>
     main {
         background-image: url(../public/img/neoworld.gif);
         background-size: cover;
